@@ -1,6 +1,6 @@
 # Portafolio
 
-¡Bienvenido a mi portafolio en GitHub! 👋 Me llamo Alexa Jimena González Lucio, un estudiante apasionado en la computación y los sistemas digitales que búsqueda aprender y desarrollar proyectos a través de mis conocimientos en el mundo del desarrollo de software y hardware.
+¡Bienvenido a mi portafolio en GitHub! 👋 Me llamo Alan Herrera Martínez, un estudiante apasionado en la computación y los sistemas digitales que búsqueda aprender y desarrollar proyectos a través de mis conocimientos en el mundo del desarrollo de software y hardware.
 
 💻 En este espacio, podrás encontrar una variedad de proyectos que reflejan mi desempeño y habilidades en el campo de la tecnología. Principalmente he abordado proyectos básicos sobre algoritmos y estructuras de datos, bases de datos y desarrollo web, Iot y circuitos eléctricos.
 
@@ -14,5 +14,5 @@
 
 ¡Encuéntrame en las redes!
 
-- **LinkedIn**: Alexa Jimena González Lucio (https://www.linkedin.com/in/alexa-jimena-gonz%C3%A1lez-lucio-81553b255/)
-- **Correo Electrónico**: alexagonzalezluc16@gmail.com
+- **LinkedIn**: Alan Herrera Martínez ([https://www.linkedin.com/in/alexa-jimena-gonz%C3%A1lez-lucio-81553b255/](https://www.linkedin.com/in/alan-herrera-mart%C3%ADnez-609168282/)https://www.linkedin.com/in/alan-herrera-mart%C3%ADnez-609168282/)
+- **Correo Electrónico**: alanmartinex@hotmail.com
