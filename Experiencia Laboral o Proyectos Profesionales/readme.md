@@ -2,8 +2,8 @@
 
 ¡Bienvenido a mi sección de Experiencia Profesional!
 
-## Empresa XYZ - Puesto que desarrollaste
-- **Periodo**: Enero 20XX - Presente
+## Empresa Epic Games - Programador
+- **Periodo**: Enero 2022 - Presente
 - **Descripción**: Programador, me encargo de desarrolar programas que me lleguen a pedir y estos son mis proyectos reaizados. 
 
 ### Proyecto 1: Nombre del proyecto
