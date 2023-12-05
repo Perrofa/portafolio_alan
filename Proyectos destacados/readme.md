@@ -7,7 +7,7 @@
 ### [Evaluacion de examen PISA](https://github.com/Perrofa/TC1028-Proyecto_Demo.git)
 Sistema que tiene como funcionalidad poder evaluar a adolescentes que esten presentando el examen PISA.
 
-### [Oirdenamiento para restaurante](https://github.com/Perrofa/Proyecto.git)
+### [Ordenamiento para restaurante](https://github.com/Perrofa/Proyecto.git)
 Sistena que permite poder llevar a cabo las operaciones que ocupa un restaurante y asi tener orden con todo lo que se demanda cada día.
 
 ¡Me encantaría poder ver tus contribuciones!
