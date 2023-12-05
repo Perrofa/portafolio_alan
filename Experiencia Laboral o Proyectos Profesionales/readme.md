@@ -4,7 +4,7 @@
 
 ## Empresa XYZ - Puesto que desarrollaste
 - **Periodo**: Enero 20XX - Presente
-- **Descripción**: Detalles sobre tu rol, responsabilidades y proyectos realizados en la empresa. 
+- **Descripción**: Programador, me encargo de desarrolar programas que me lleguen a pedir y estos son mis proyectos reaizados. 
 
 ### Proyecto 1: Nombre del proyecto
 - **Descripción**: Descripción [listar tecnologías utilizadas].
